@@ -1,9 +1,16 @@
 About me     >
 clearnet      : https://kylz.nl/me
 onion service : http://cytq5dwgt2hzes52j6knlbfjamxvwnjgxemcg5ok5bls4lotwztbjbqd.onion/me
+
 Crappy Blog  >
-clearnet      : https://crappy.kylz.nl
-onion service : http://2y2jciv6d6ihyl5e2ztyaygrdr5id6zywyiwddbf23uzgelrqyge7vqd.onion
+clearnet      : https://kylz.nl/crappy
+onion service : http://cytq5dwgt2hzes52j6knlbfjamxvwnjgxemcg5ok5bls4lotwztbjbqd.onion/crappy
+
+Gitea        >
+clearnet      : https://kylz.nl/git
+onion service : http://cytq5dwgt2hzes52j6knlbfjamxvwnjgxemcg5ok5bls4lotwztbjbqd.onion/git
+
+x -----------
 
 Contact      >
 Email         : *look at github email* *About me*
@@ -16,5 +23,3 @@ $ ------------
 Website Status
 clearnet      : https://status.kylz.nl (github pages)
 
-Gitea        >
-clearnet      : https://git.kylz.nl
