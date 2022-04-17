@@ -24,6 +24,4 @@ PGP           : 923D FF2B 99B7 5D73 1C55 BF74 9066 7A59 A990 8AEC
 -> CDN        : https://landing.1w1.one/pgp.txt
 $ ------------
 
-Matrix        : @khal:1w1.one [https://matrix.to/#/@khal:1w1.one]
-(if Matrix 1 is down or cannot contact . Please use this)
-Matrix_2      : @slitcloke:matrix.org [https://matrix.to/#/@slitcloke:matrix.org]
+Matrix      : @slitcloke:matrix.org [https://matrix.to/#/@slitcloke:matrix.org]
